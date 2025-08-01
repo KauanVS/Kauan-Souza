@@ -33,7 +33,7 @@ Crescer na área de tecnologia, com foco em desenvolvimento web, contribuindo pa
 ## 📫 Contato
 
 - Email: kauansouza.vasc@gmail.com  
-- LinkedIn: LinkedIn: [www.linkedin.com/in/kauan-souza-vasconcelos-a52151224](https://linkedin.com/in/seu-perfil)
+- LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/kauandevads)
 
 ---
 
