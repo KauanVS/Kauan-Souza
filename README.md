@@ -3,7 +3,7 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Apaixonado por tecnologia e desenvolvimento web  
 🧠 Sempre buscando evoluir e aprender coisas novas  
-📦 Experiência com **logística**, **atendimento ao cliente** e **suporte técnico**
+📦 Experiência com **logística** **atendimento ao cliente** e **suporte técnico**
 
 ---
 
