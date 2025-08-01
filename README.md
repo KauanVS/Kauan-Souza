@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Atualmente aprendendo:
-- HTML5, CSS3 e JavaScript  
+- HTML, CSS e JavaScript  
 - Git e GitHub  
 - Lógica de programação  
 
