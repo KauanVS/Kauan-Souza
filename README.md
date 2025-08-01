@@ -7,13 +7,10 @@
 
 ---
 
-## 🛠️ Habilidades Iniciais
-
-- HTML5  
-- Excel (intermediário)  
-- Hardware e Software  
+### 🚀 Atualmente aprendendo:
+- HTML5, CSS3 e JavaScript  
+- Git e GitHub  
 - Lógica de programação  
-- Git & GitHub (em aprendizado)
 
 ---
 
