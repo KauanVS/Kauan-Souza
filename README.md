@@ -35,8 +35,8 @@ Crescer na área de tecnologia, com foco em desenvolvimento web, contribuindo pa
 
 ## 📫 Contato
 
-- Email: seuemail@exemplo.com  
-- LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil) *(substitua pelo seu link real)*  
+- Email: kauansouza.vasc@gmail.com  
+- LinkedIn: [linkedin.com/in/seu-perfil](www.linkedin.com/in/kauandevads) *(substitua pelo seu link real)*  
 
 ---
 
