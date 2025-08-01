@@ -1,9 +1,9 @@
-# 👋 Olá, eu sou o Kauan Souza
+## 👋 Olá! Eu sou o Kauan Souza
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Apaixonado por tecnologia e desenvolvimento web  
-🧠 Sempre buscando evoluir e aprender coisas novas  
-📦 Experiência com **logística**, **atendimento ao cliente** e **suporte técnico**
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Focado em desenvolvimento web e tecnologia  
+📊 Experiência com logística, atendimento ao cliente e suporte em TI  
+🛠️ Conhecimentos em HTML, Excel intermediário, hardware e software  
 
 ---
 
